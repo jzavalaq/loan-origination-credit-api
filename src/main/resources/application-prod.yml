@@ -26,4 +26,4 @@ spring:
 logging:
   level:
     root: WARN
-    com.openclaw.loanorigination: INFO
+    com.fintech.loan: INFO

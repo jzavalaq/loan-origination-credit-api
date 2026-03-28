@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.openclaw</groupId>
+    <groupId>com.fintech</groupId>
     <artifactId>loan-origination-credit-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>loan-origination-credit-api</name>

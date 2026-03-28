@@ -26,5 +26,5 @@ spring:
 logging:
   level:
     root: DEBUG
-    com.openclaw.loanorigination: DEBUG
+    com.fintech.loan: DEBUG
     org.springframework.security: DEBUG
